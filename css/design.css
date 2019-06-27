@@ -7,7 +7,7 @@ body{
 .page{
   margin: 50px auto;
   width: 70%;
-  background-color: #fff;
+  background-color:black;
   border-radius: 5px;
   padding: 50px;
 }
@@ -20,7 +20,7 @@ body{
     font-size: 22px;
     text-transform: uppercase;
     font-weight: bold;
-    color: #555;
+    color:white;
   }
 
   .page-header .student-search{
@@ -67,11 +67,11 @@ body{
       .student-details h3{
         margin: 4px 0 2px 0;
         font-weight: bold;
-        color: #4ba6c3;
+        color:orange;
       }
 
       .student-details .email{
-        color: #888;
+        color:white;
         font-size: 14px;
       }
 
@@ -86,7 +86,7 @@ body{
         margin-top: 15px;
         display: block;
         font-size: 14px;
-        color: #999;
+        color:orange;
       }
 
   .student-item:last-child{
